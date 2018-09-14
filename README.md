@@ -1,2 +1,2 @@
 # Intro-to-ML
-Introduction to Machine Learning using Text Classification  - In development
+Introduction to Machine Learning using Text Classification
