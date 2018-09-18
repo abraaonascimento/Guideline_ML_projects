@@ -7,11 +7,11 @@ Guideline for Machine Learning Projects is a document-reference for people that 
 
 This document cover:
 
-  * 1. How to get data
-  * 2. How to explore data
-  * 3. How to prepare data
-  * 4. How to build, train and evaluate Machine Learning Models for Text Classification
-  * 5. How to deploy your Machine Learning Model
+  * 1 - How to get data
+  * 2 - How to explore your data
+  * 3 - How to prepare your data
+  * 4 - How to build, train and evaluate Machine Learning Models for Text Classification
+  * 5 - How to deploy your Machine Learning Model
 
 The papers used as a reference for this guideline can be found in the `/docs` folder.
 
